@@ -13,5 +13,10 @@ def check_prime(n):
         
                 
 check_prime(5)
+check_prime(9)
 
-            
+# output
+'''
+5 is a prime number
+9 is not a prime number
+'''

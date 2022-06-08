@@ -7,6 +7,12 @@ def factorial(n):
     for count in range(1, n+1):
         fact = fact * count
         count = count + 1
-    print(fact)
+    print("factorial is:", fact)
     
 factorial(5)
+
+# output
+'''
+factorial is: 120
+
+'''
